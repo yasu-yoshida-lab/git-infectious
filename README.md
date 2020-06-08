@@ -82,3 +82,13 @@ SIR モデルおよび SEIR モデルの実行結果です。
 
 # 解析結果の可視化について
 今回、Python および C++ のそれぞれで同じモデルのシミュレーションを行いました。解析結果(「sir_c++.txt, seir_c++.txt, sir_python.txt, seir_python.txt」）の可視化は Python の可視化用の外部ライブラリ（Matplotlib） を利用しました。可視化に関しては、gnuplot や Excel など個人で自由に選んで貰えればいいです。
+
+# 解析結果の可視化
+<img width="200" alt="sir" src="./sir_python.png">
+
+解析結果の出力図（SIR モデル）
+
+<img width="200" alt="sir" src="./seir_python.png">
+
+解析結果の出力図（SIR モデル）
+
